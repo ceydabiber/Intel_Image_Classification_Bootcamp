@@ -54,3 +54,5 @@ This project is part of the Akbank Bootcamp: Introduction to Deep Learning. The 
 
 ## Links
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+- [Kaggle Notebook](https://www.kaggle.com/code/bceydaa/intel-image-classification-akbank)
+
