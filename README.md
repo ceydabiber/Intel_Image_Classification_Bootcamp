@@ -1,8 +1,4 @@
-# Landscape_Classification_101
-
-# Intel Image Classification
-
-## Project Overview
+# Project Overview
 This project is part of the Akbank Bootcamp: Introduction to Deep Learning. The goal is to classify images of different natural and artificial environments into six categories using deep learning models.
 
 - **Dataset:** [Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)  
